@@ -1,0 +1,7 @@
+C:\Users\ayrto\Documents\Ayrton\JemApiTest\obj\Debug\net8.0\JemApiTest.csproj.AssemblyReference.cache
+C:\Users\ayrto\Documents\Ayrton\JemApiTest\obj\Debug\net8.0\JemApiTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayrto\Documents\Ayrton\JemApiTest\obj\Debug\net8.0\JemApiTest.AssemblyInfoInputs.cache
+C:\Users\ayrto\Documents\Ayrton\JemApiTest\obj\Debug\net8.0\JemApiTest.AssemblyInfo.cs
+C:\Users\ayrto\Documents\Ayrton\JemApiTest\obj\Debug\net8.0\JemApiTest.csproj.CoreCompileInputs.cache
+C:\Users\ayrto\Documents\Ayrton\JemApiTest\obj\Debug\net8.0\JemApiTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ayrto\Documents\Ayrton\JemApiTest\obj\Debug\net8.0\JemApiTest.MvcApplicationPartsAssemblyInfo.cache
